@@ -1,0 +1,78 @@
+.card{
+    height: 350px;
+    width: 250px;
+    margin-left: 20px;
+    padding: 20px;
+}
+.card5 {
+    height: 200px;
+    width: 700px;
+    padding: 20px;
+}
+
+.heading{
+    margin: 30px;
+    color: black;
+}
+
+.row-wrap {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.row-w {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.col-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.details {
+    margin: 20px;
+}
+
+.dark {
+    color: rgb(129, 27, 87);
+    font-weight: 500;
+}
+
+.black {
+    color: cadetblue;
+}
+
+.mrg40-TB {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.pd20-TB {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text-center {
+    text-align: center;
+    align-items: center;
+}
+
+.form{
+    height: 200px;
+    width: 500px;
+    padding-inline: 40px;
+}
+
+.icon {
+    size: 50px;
+    font-size: 50px;
+    cursor: pointer;
+}
+
